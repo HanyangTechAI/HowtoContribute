@@ -1,9 +1,9 @@
 from .person import Person
-from .youngchae import YoungChae
+from .yeonjin import YeonjinJoo
 
 from typing import List
 
 
 PEOPLE: List[Person] = [
-    YoungChae()
+    YeonjinJoo()
 ]
